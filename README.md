@@ -1,4 +1,4 @@
-# www.manicmoo.com
+# www.httpxray.com
 
 Static site hosting for https://www.httpxray.com
 
